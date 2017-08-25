@@ -1,0 +1,26 @@
+
+alas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Character 1 S PNG
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Character 2 S PNG
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Character 3 S PNG
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

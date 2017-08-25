@@ -1,0 +1,33 @@
+
+armorUp.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Armour Weapons 1 N png
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Armour Weapons 2 N png
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Armour Weapons 4 N png
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Armour Weapons 3 N png
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
